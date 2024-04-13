@@ -7,6 +7,7 @@ Playground:
 - [Lesson 01: Initialize the framework](https://plnkr.co/edit/IzbP7B8SqYEVg7C7?preview)
 - [Lesson 02: Scaling](https://plnkr.co/edit/wf2Fz1gkwfa2RXqd?preview)
 - [Lesson 03. Load and print assets](https://plnkr.co/edit/rRmo55k8ISJJ8iAh?preview)
+- [Lesson 04. Move the ball](https://plnkr.co/edit/BCkYRY9GUkzFzKrp?preview)
 
 Instructions for building and running the project in debug and release:
 
