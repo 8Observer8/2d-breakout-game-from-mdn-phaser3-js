@@ -9,7 +9,7 @@ const config = {
     scaleMode: Phaser.Scale.ScaleModes.FIT,
     autoCenter: Phaser.Scale.Center.CENTER_BOTH,
 
-    autoFocus: false,
+    autoFocus: true,
     scene: { preload, create, update },
     plugins: {
         global: [
