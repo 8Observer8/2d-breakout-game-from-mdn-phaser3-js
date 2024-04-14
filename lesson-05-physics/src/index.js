@@ -32,7 +32,6 @@ function preload() {
 
 function create() {
     ball = this.physics.add.sprite(50, 50, "ball");
-    ball.setCollideWorldBounds(true);
     ball.setVelocity(150, 150);
 }
 
