@@ -1,7 +1,7 @@
-const { CANVAS, Game, Scale } = Phaser;
+const { AUTO, Game, Scale } = Phaser;
 
 const config = {
-    type: CANVAS,
+    type: AUTO,
 
     parent: '2d-breakout-game',
     width: 480,

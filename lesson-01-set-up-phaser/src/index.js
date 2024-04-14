@@ -1,7 +1,7 @@
-import { CANVAS, Game } from "phaser3";
+import { AUTO, Game } from "phaser3";
 
 const config = {
-    type: CANVAS,
+    type: AUTO,
     parent: "2d-breakout-game",
     width: 480,
     height: 320,
