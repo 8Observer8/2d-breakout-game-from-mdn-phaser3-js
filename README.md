@@ -9,10 +9,11 @@ Playground:
 - [Lesson 03. Load and print assets](https://plnkr.co/edit/rRmo55k8ISJJ8iAh?preview)
 - [Lesson 04. Move the ball](https://plnkr.co/edit/BCkYRY9GUkzFzKrp?preview)
 - [Lesson 05. Physics](https://plnkr.co/edit/pjoWpdiF3Y7qP07I?preview)
+- [Lesson 06. Bounce off the walls](https://plnkr.co/edit/HYxLIzRF7Uo4dbvX?preview)
 
 Instructions for building and running the project in debug and release:
 
-- Download and unzip this example this repository
+- Download and unzip this repository
 
 - Open the command line terminal and go to the lesson folder
 
