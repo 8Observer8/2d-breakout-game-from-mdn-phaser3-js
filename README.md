@@ -11,6 +11,7 @@ Playground:
 - [Lesson 05. Physics](https://plnkr.co/edit/pjoWpdiF3Y7qP07I?preview)
 - [Lesson 06. Bounce off the walls](https://plnkr.co/edit/HYxLIzRF7Uo4dbvX?preview)
 - [Lesson 07. Player paddle and controls](https://plnkr.co/edit/RYmXuFWarqIMm02E?preview)
+- [Lesson 08. Game over](https://plnkr.co/edit/YDm2eholZFLmoKiK?preview)
 
 Instructions for building and running the project in debug and release:
 
